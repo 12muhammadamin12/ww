@@ -1,0 +1,2 @@
+nimadur
+print("hec nma") 
